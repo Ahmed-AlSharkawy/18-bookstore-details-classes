@@ -6,6 +6,7 @@
 
 $mainBlack: #222;
 $mainGreen: #82b340;
+$mainLightGreen: #81b340a6;
 $mainWhite: #fff;
 $mainGrey: #ececec;
 $mainRed: #ff0000;
@@ -13,6 +14,6 @@ $mainTransition: all 0.3s linear;
 
 body {
   font-family: 'open sans', sans-serif;
-  background-color: $mainGreen;
+  background-color: $mainLightGreen;
   color: $mainBlack;
 }
